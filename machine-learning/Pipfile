@@ -11,6 +11,7 @@ sklearn = "*"
 click = "*"
 pylint = "*"
 scipy = "*"
+rope = "*"
 
 [dev-packages]
 
